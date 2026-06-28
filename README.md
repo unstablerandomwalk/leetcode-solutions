@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

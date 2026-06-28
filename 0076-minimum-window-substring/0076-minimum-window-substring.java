@@ -7,14 +7,13 @@ class Solution {
             need.merge(c, 1, Integer::sum);
         }
 
-        int required = need.size();   // distinct chars to satisfy
+        int required = need.size(); 
         int have = 0;
 
         Map<Character, Integer> window = new HashMap<>();
         int start = 0;
         int minLength = Integer.MAX_VALUE;
-        int resStart = 0;             // remember where the best window began
-
+        int resStart = 0;
         for (int end = 0; end < s.length(); end++) {
             char c = s.charAt(end);
             window.merge(c, 1, Integer::sum);

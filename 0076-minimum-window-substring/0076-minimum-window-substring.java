@@ -3,23 +3,19 @@ class Solution {
         if (s.length() < t.length()) {
             return "";
         }
-
         Map<Character, Integer> charCount = new HashMap<>();
         for (char ch : t.toCharArray()) {
             charCount.put(ch, charCount.getOrDefault(ch, 0) + 1);
         }
-
         int targetCharsRemaining = t.length();
         int[] minWindow = {0, Integer.MAX_VALUE};
         int startIndex = 0;
-
         for (int endIndex = 0; endIndex < s.length(); endIndex++) {
             char ch = s.charAt(endIndex);
             if (charCount.containsKey(ch) && charCount.get(ch) > 0) {
                 targetCharsRemaining--;
             }
             charCount.put(ch, charCount.getOrDefault(ch, 0) - 1);
-
             if (targetCharsRemaining == 0) {
                 while (true) {
                     char charAtStart = s.charAt(startIndex);

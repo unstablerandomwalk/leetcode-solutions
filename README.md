@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0213-house-robber-ii) |

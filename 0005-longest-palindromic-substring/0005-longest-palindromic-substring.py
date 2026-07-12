@@ -1,13 +1,14 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        if not s:
+            return ""
+        t = "#" + "#".join(s) + "#"
         sub = ""
-        def expand(start, end):
-            while start >= 0 and end < len(s) and s[start] == s[end]:
+        for i in range(len(t)):
+            start, end = i, i
+            while start >= 0 and end < len(t) and t[start] == t[end]:
+                if end - start + 1 > len(sub):
+                    sub = t[start:end + 1]
                 start -= 1
                 end += 1
-            return s[start+1: end]
-        for i in range(len(s)):
-            odd = expand(i,i)
-            even = expand(i,i+1)
-            sub = max(sub,odd,even, key = len)
-        return sub
+        return sub.replace("#", "")

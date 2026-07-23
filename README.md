@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |

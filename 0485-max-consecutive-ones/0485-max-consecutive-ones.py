@@ -5,7 +5,7 @@ class Solution:
         for i in nums:
             if i == 1:
                 curr += 1
-                total = max(total,curr)
             else:
+                total = max(total,curr)
                 curr = 0
-        return total
+        return max(total,curr)

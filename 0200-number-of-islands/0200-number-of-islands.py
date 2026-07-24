@@ -4,7 +4,7 @@ class Solution:
         n = len(grid[0])
         count = 0
         def sink(r,c):
-            if r>=m or c>=n or grid[r][c] != "1" or r<0 or c<0:
+            if r<0 or r>=m or c<0 or c>=n or grid[r][c] != "1":
                 return
             grid[r][c] = 0
             sink(r+1,c)

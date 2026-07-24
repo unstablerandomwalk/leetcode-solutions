@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Bit Manipulation
 |  |
@@ -199,12 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

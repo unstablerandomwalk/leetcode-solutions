@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -280,4 +283,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0133-clone-graph) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

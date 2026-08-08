@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0860-lemonade-change) |

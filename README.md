@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
@@ -317,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1021-remove-outermost-parentheses](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -338,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

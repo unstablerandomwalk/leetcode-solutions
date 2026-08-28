@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

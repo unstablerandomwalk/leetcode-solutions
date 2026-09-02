@@ -2,7 +2,7 @@ class Solution:
     def nextGreaterElement(self, nums1, nums2):
         r = []
         for i in nums1:
-            j = nums2.index(i) + 1    # start AFTER where i appears
+            j = nums2.index(i) + 1
             found = False
             while j < len(nums2):
                 if nums2[j] > i:

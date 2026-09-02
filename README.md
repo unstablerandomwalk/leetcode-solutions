@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |

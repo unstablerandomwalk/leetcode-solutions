@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -409,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

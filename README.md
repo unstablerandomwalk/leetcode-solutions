@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3731-find-missing-elements](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/unstablerandomwalk/leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |

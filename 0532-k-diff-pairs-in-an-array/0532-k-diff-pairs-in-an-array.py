@@ -2,11 +2,8 @@ class Solution:
     def findPairs(self, nums: List[int], k: int) -> int:
         d = {}
         count = 0
-        for i in range(len(nums)):
-            if nums[i] not in d:
-                d[nums[i]] = 1
-            else:
-                d[nums[i]] += 1
+        for i in nums:
+            d[i] = d.get(i,0) + 1
         if k == 0:
             for i in d:
                 if d[i] > 1:
